@@ -21,8 +21,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Kantor Otoritas Bandar Udara Wilayah III Juanda
-    url: https://otban3.dephub.go.id/
+  - name: Kantor Otoritas Bandar Udara Wilayah III Juanda - Kementerian Perhubungan
+    url: https://otban3.dephub.go.id
 education:
   courses:
     - course: S1 Teknik Informatika
