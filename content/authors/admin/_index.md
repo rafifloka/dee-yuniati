@@ -39,4 +39,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Saya adalah Kasubbag Perencanaan dan Keuangan pada Kantor Otoritas Bandar Udara Wilayah III Juanda.
+Saya adalah Kasubbag Perencanaan dan Keuangan pada Kantor Otoritas Bandar Udara Wilayah III Juanda Kementerian Perhubungan
