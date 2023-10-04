@@ -1,7 +1,7 @@
 ---
 title: Diah Yuniati
 role: Kepala Subbagian Perencanaan dan Keuangan
-avatar_filename: avatar.jpg
+avatar_filename: picture_diah_yuniati.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
